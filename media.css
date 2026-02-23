@@ -1,0 +1,216 @@
+@media only screen and (min-width:200px) and (max-width:567px){
+    body {
+    margin-top: 22%;
+}
+
+    .headerMid{
+        flex-direction: column;
+        align-items: center;
+    }
+    .media1{
+        position: fixed;
+        bottom: 0px;
+        background-color:white; 
+        
+    }
+    .media1 button{
+        font-size: 15px;
+    }
+    .ContantMid {
+    flex-direction: column;
+    padding: 10px;
+    align-items: stretch;
+    }
+    .ContantMid-box{
+        gap: 10px;
+        align-items: center;
+        justify-content: center;
+    }
+    button {
+    padding: 5px 10px;
+}
+ 
+    .ContantMid-box button:nth-child(1){
+        padding: 5px 0px;
+        font-size: 12px;
+    }
+    .ContantLeft h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.ContantLeft p {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.ContantLeft ul li {
+    font-size: 14px;
+    line-height: 10px;
+    margin-bottom: 14px;
+}
+
+    .Contant-form form::after{
+        display: none;
+    }
+    .formBox {
+    width: 90%;
+    margin:auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 3px #ccc;
+    margin-bottom: 30px;
+}
+.Section-1 p {
+    font-size: 13px;
+    line-height: 5px;
+}
+.Section-1 h3 {
+    font-size: 25px;
+}
+
+.SectionMid{
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+}
+.Section-1{
+    flex-basis: 40%;
+    text-align: center;
+}
+.Highlights-Mid {
+    padding: 10px;
+}
+.Highbox {
+    flex-basis: 90%;
+}
+.CareerMid h2 {
+    font-size: 20px;
+}
+.Highitems {
+    margin: 5px 0px;
+}
+.Highitems button{
+    margin: 10px 0px;
+}
+.CareerMid{
+    padding: 5% 0px;
+
+}
+.CareerMid p {
+    font-size: 15px;
+    line-height: 17px;
+}
+.Careeritems {
+    width: 90%;
+    flex-direction: column;
+}
+.certifiedMid {
+    padding: 1% 10px;
+    flex-direction: column;
+}
+.certifiedBox figure {
+    width: 50%;
+}
+.certifiedBox nav h3 {
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+.certifiedBox nav p {
+    font-size: 10px;
+    line-height: 12px;
+}
+.Highlights-Mid{
+    padding: 5px;
+}
+.Highlights-Mid button {
+margin: 40px 40px 0px 50px;
+}
+.certified-R{
+  
+}
+.certified-R figure img{
+    width: 80%;
+    height: 330px;
+    top: 0px;
+}
+.certified-R>img {
+ display: none;
+}
+.certified-C {
+    display: none;
+}
+.CareerMid span h2 {
+    font-size: 18px;
+
+}
+.CareerMid span p {
+    font-size: 12px;
+    line-height: 10px;
+    padding: 5px 10px;
+}
+.CurricItems ul {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.Curric-part ul{
+    display: block;
+
+}
+.Learn-part {
+    flex-basis: 45%;
+    text-align: center;
+}
+.Learn-part h3 {
+    font-weight: 700;
+    font-size: 12px;
+}
+.Learn-part p {
+    font-size: 10px;
+    line-height: 15px;
+    text-align: center;
+}
+.Studentitems {
+    flex-direction: column;
+}
+.Student-part{
+    margin:0px 20px;
+}
+.Student-part nav {
+    font-size: 12px;
+    line-height: 20px;
+
+}
+.digital-1 p {
+    font-size: 12px;
+    line-height: 14px;
+}
+.ReadyMid figure img:nth-child(2){
+    display: none;
+}
+.ReadyMid figure img:nth-child(1){
+    display: none;
+}.ReadyMid{
+    margin: 0px 20px;
+}
+.CareerMid {
+    margin: 0px 20px;
+}
+.Ready-Btn button{
+    padding: 10px;
+}
+.digital-2 h4 {
+    font-size: 14px;
+}
+.topMid h2{
+    font-size: 18px;
+}
+.topMid img{
+    width: 100%;
+}
+.footerMid p {
+    font-size: 12px;
+    line-height: 14px;
+}
+}    
